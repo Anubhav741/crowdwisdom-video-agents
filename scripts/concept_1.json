@@ -1,0 +1,79 @@
+{
+  "concept_name": "The Noise",
+  "objective": "Highlight the overwhelming information overload faced by retail traders and how CrowdWisdom provides clarity and informed decision-making.",
+  "target_icp": "Retail traders utilizing AI tools for trading decision-making.",
+  "hook": "Drowning in market noise?",
+  "voiceover_style": "Confident, empathetic, and straightforward.",
+  "total_duration_seconds": 45,
+  "scenes": [
+    {
+      "scene_number": 1,
+      "duration_seconds": 5,
+      "visual": "A chaotic trading floor filled with flashing screens, scrolling news tickers, and traders looking overwhelmed.",
+      "camera": "Fast-paced zoom-in on a trader's face showing frustration.",
+      "lighting": "Harsh overhead lighting with flickering reflections from screens.",
+      "sound": "Distant chatter, overlapping notifications, and alarms blaring.",
+      "voiceover": "Drowning in market noise?",
+      "on_screen_text": "Too much information?",
+      "asset_prompt": "A crowded trading floor with multiple screens displaying various market data and alerts, traders looking stressed while trying to focus."
+    },
+    {
+      "scene_number": 2,
+      "duration_seconds": 7,
+      "visual": "Close-up of a trader scrolling through endless social media feeds and market alerts on their phone, looking confused.",
+      "camera": "Tight shot on the phone screen, capturing the flood of alerts.",
+      "lighting": "Soft backlight from the phone screen illuminating the trader's face.",
+      "sound": "Soft notification sounds mixed with a heartbeat-like pulse.",
+      "voiceover": "Information overload makes it hard to see what matters.",
+      "on_screen_text": "Signals or noise?",
+      "asset_prompt": "A close-up of a phone screen filled with notifications and market data, with a trader's hand scrolling through, showing signs of confusion."
+    },
+    {
+      "scene_number": 3,
+      "duration_seconds": 8,
+      "visual": "A visual metaphor of a signal cutting through static noise, representing clarity amidst chaos.",
+      "camera": "Slow-motion capture of a bright signal cutting through dark static.",
+      "lighting": "High contrast with the signal illuminated brightly against dark surroundings.",
+      "sound": "Calming tone as the signal breaks through the noise.",
+      "voiceover": "But what if you could cut through the chaos?",
+      "on_screen_text": "Find clarity.",
+      "asset_prompt": "An abstract visualization where a bright signal emerges from a chaotic background of static noise, symbolizing clarity in trading."
+    },
+    {
+      "scene_number": 4,
+      "duration_seconds": 8,
+      "visual": "A trader confidently using the CrowdWisdom platform, with clear data visualizations and actionable insights on the screen.",
+      "camera": "Wide shot of the trader smiling while engaged with the platform.",
+      "lighting": "Warm and inviting lighting to create a sense of ease.",
+      "sound": "Upbeat music begins to build.",
+      "voiceover": "CrowdWisdom helps you make informed decisions.",
+      "on_screen_text": "Your trading partner.",
+      "asset_prompt": "A user-friendly fintech interface displaying clear data visualizations and actionable insights, with a trader interacting confidently."
+    },
+    {
+      "scene_number": 5,
+      "duration_seconds": 7,
+      "visual": "A split-screen showing a before-and-after scenario: one side with noise and confusion, the other with clarity and focus.",
+      "camera": "Dramatic transition between the two sides.",
+      "lighting": "Contrasting lighting to emphasize the difference.",
+      "sound": "Music crescendo leads into clarity.",
+      "voiceover": "Trade smarter, not harder.",
+      "on_screen_text": "Transform your trading.",
+      "asset_prompt": "A split-screen comparison showing a chaotic trading environment on one side and a clear, focused trading environment using CrowdWisdom on the other."
+    },
+    {
+      "scene_number": 6,
+      "duration_seconds": 5,
+      "visual": "The CrowdWisdom logo with a tagline below it.",
+      "camera": "Slow zoom out to reveal the logo.",
+      "lighting": "Soft, ambient lighting highlighting the logo.",
+      "sound": "Music fades out, leaving a strong final note.",
+      "voiceover": "Join CrowdWisdom today.",
+      "on_screen_text": "Get started now.",
+      "asset_prompt": "A clean and modern logo of CrowdWisdom with a simple, elegant background, emphasizing professionalism and clarity."
+    }
+  ],
+  "cta": "Visit CrowdWisdom.com to learn more.",
+  "disclaimer": "Trading involves risk. Past performance is not indicative of future results.",
+  "concept_number": 1
+}

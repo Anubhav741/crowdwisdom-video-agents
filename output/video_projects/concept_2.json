@@ -1,0 +1,77 @@
+{
+  "concept_name": "From Data to Decision",
+  "objective": "To showcase how CrowdWisdom empowers retail traders with actionable insights derived from data analysis, helping them make informed trading decisions amidst information overload.",
+  "target_icp": "Retail traders utilizing AI tools for trading decision-making.",
+  "hook": "Overwhelmed by conflicting market signals?",
+  "duration": 45,
+  "scenes": [
+    {
+      "scene_number": 1,
+      "duration_seconds": 5,
+      "visual": "A chaotic trading floor filled with screens showing fluctuating charts and notifications, traders looking stressed and overwhelmed.",
+      "camera": "Quick pan across the trading floor, focusing on the tension in traders' faces.",
+      "lighting": "Harsh overhead lights creating a high-stress atmosphere.",
+      "sound": "Background noise of frantic trading, beeping notifications.",
+      "voiceover": "Overwhelmed by conflicting market signals?",
+      "on_screen_text": "Too much noise.",
+      "asset_prompt": "A busy trading floor with multiple screens displaying fluctuating stock charts and notifications, capturing the chaos and tension of trading."
+    },
+    {
+      "scene_number": 2,
+      "duration_seconds": 8,
+      "visual": "Close-up of a trader staring at multiple screens, visibly frustrated as data streams by.",
+      "camera": "Close-up shot of the trader's face, highlighting their frustration.",
+      "lighting": "Dim lighting around the trader, focusing a spotlight on their face.",
+      "sound": "Distant murmurs of traders discussing, with a rising tense score in the background.",
+      "voiceover": "Information overload makes it hard to discern actionable insights.",
+      "on_screen_text": "Lost in data.",
+      "asset_prompt": "A close-up of a frustrated trader's face, with multiple screens of rapidly changing data in the background, emphasizing the feeling of being overwhelmed."
+    },
+    {
+      "scene_number": 3,
+      "duration_seconds": 7,
+      "visual": "Transition to a sleek, clean interface of the CrowdWisdom platform, showcasing key insights on a single screen.",
+      "camera": "Smooth transition to a clean digital dashboard interface.",
+      "lighting": "Bright, clean lighting highlighting the interface.",
+      "sound": "The sound of a calm notification ping, signaling clarity.",
+      "voiceover": "CrowdWisdom simplifies data into actionable insights.",
+      "on_screen_text": "Insights made simple.",
+      "asset_prompt": "A sleek and modern digital dashboard displaying key trading insights and analysis, with a focus on clarity and simplicity."
+    },
+    {
+      "scene_number": 4,
+      "duration_seconds": 8,
+      "visual": "Visual representation of social sentiment, with animated graphs and trader reactions showing positive engagement.",
+      "camera": "Dynamic zoom out from the dashboard to show animated charts and trader interactions.",
+      "lighting": "Vibrant colors in the charts to signify positive sentiment.",
+      "sound": "Uplifting music starts playing, creating an optimistic vibe.",
+      "voiceover": "Leverage the wisdom of thousands of traders to inform your decisions.",
+      "on_screen_text": "Join the community.",
+      "asset_prompt": "Animated graphs representing social sentiment and trader interactions, with vibrant colors and positive engagement visuals."
+    },
+    {
+      "scene_number": 5,
+      "duration_seconds": 7,
+      "visual": "Traders confidently taking action based on insights from CrowdWisdom, high-fiving each other.",
+      "camera": "Wide shot of traders celebrating successful trades together.",
+      "lighting": "Bright, optimistic lighting creating a sense of success.",
+      "sound": "Cheerful background music enhancing the atmosphere of success.",
+      "voiceover": "Make informed decisions with confidence.",
+      "on_screen_text": "Trade smarter.",
+      "asset_prompt": "A wide shot of a group of confident traders celebrating and high-fiving after executing trades based on insights, emphasizing teamwork and success."
+    },
+    {
+      "scene_number": 6,
+      "duration_seconds": 5,
+      "visual": "CrowdWisdom logo with a tagline beneath it, set against a sleek background.",
+      "camera": "Slow zoom in on the logo.",
+      "lighting": "Spotlight on the logo, fading in from darkness.",
+      "sound": "Calm, confident music fades in.",
+      "voiceover": "Join CrowdWisdom today.",
+      "on_screen_text": "Transform your trading.",
+      "asset_prompt": "A minimalistic and elegant display of the CrowdWisdom logo on a sleek background, representing professionalism and trust."
+    }
+  ],
+  "cta": "Sign up for a free trial at CrowdWisdom.com",
+  "disclaimer": "Trading involves risk. Past performance is not indicative of future results. Please trade responsibly."
+}

@@ -1,0 +1,77 @@
+{
+  "concept_name": "How CrowdWisdom Helps: Find the Signal",
+  "objective": "Demonstrate how CrowdWisdom aids traders in distinguishing actionable signals from market noise.",
+  "target_icp": "Retail traders utilizing AI tools for trading decision-making.",
+  "hook": "Drowning in data? Find the signal.",
+  "duration": 45,
+  "scenes": [
+    {
+      "scene_number": 1,
+      "duration_seconds": 5,
+      "visual": "A chaotic trading floor filled with screens showing rapid stock movements and notifications.",
+      "camera": "Quick pan across multiple screens with alerts flashing.",
+      "lighting": "High contrast with bright screens against a dimly lit environment.",
+      "sound": "Background noise of ringing notifications and murmurs of traders.",
+      "voiceover": "Drowning in data?",
+      "on_screen_text": "Drowning in data?",
+      "asset_prompt": "Create a visually dynamic trading floor scene with multiple screens showing stock charts, alerts, and busy traders reacting. Use bright colors for screens against a dark background."
+    },
+    {
+      "scene_number": 2,
+      "duration_seconds": 10,
+      "visual": "Close-up of a trader looking frustrated, toggling between screens overloaded with data.",
+      "camera": "Tight shot on the trader's face showing stress.",
+      "lighting": "Focused lighting on the trader, dimming the background.",
+      "sound": "Heartbeat sound amplifying the tension.",
+      "voiceover": "Feeling lost in the noise?",
+      "on_screen_text": "Feeling lost?",
+      "asset_prompt": "Create a close-up shot of a stressed trader, with screens in the background displaying overwhelming data. The trader should appear focused yet overwhelmed."
+    },
+    {
+      "scene_number": 3,
+      "duration_seconds": 10,
+      "visual": "Smooth transition to an abstract data visualization of market signals and noise.",
+      "camera": "Zooming in on the visualization, isolating the signals.",
+      "lighting": "Bright and engaging colors to highlight signals.",
+      "sound": "A rising tone indicating clarity.",
+      "voiceover": "Discover actionable signals.",
+      "on_screen_text": "Find the signal.",
+      "asset_prompt": "Create an abstract visualization that contrasts clear market signals against a chaotic background of noise. Use bright colors for signals and gray for noise."
+    },
+    {
+      "scene_number": 4,
+      "duration_seconds": 10,
+      "visual": "Display CrowdWisdom's platform showcasing clear insights and analysis on SNOW.",
+      "camera": "Dynamic overview of the platform's interface.",
+      "lighting": "Bright, clean lighting highlighting the interface.",
+      "sound": "Uplifting background music begins.",
+      "voiceover": "Leverage insights from thousands of professional traders.",
+      "on_screen_text": "Insights from professionals.",
+      "asset_prompt": "Show a sleek, modern fintech interface of the CrowdWisdom platform. Highlight key features like analysis on SNOW with user-friendly navigation."
+    },
+    {
+      "scene_number": 5,
+      "duration_seconds": 5,
+      "visual": "Close-up of a trader confidently placing a trade based on CrowdWisdom insights.",
+      "camera": "Focus on the trader's hand moving to click the trade button.",
+      "lighting": "Warm light creating a positive atmosphere.",
+      "sound": "Sound of a mouse click.",
+      "voiceover": "Make informed decisions.",
+      "on_screen_text": "Trade with confidence.",
+      "asset_prompt": "Capture a close-up shot of a trader's hand clicking a 'trade' button on a sleek trading platform, showcasing confidence and clarity."
+    },
+    {
+      "scene_number": 6,
+      "duration_seconds": 5,
+      "visual": "The CrowdWisdom logo with a tagline underneath.",
+      "camera": "Static shot of the logo on a clean background.",
+      "lighting": "Bright and inviting.",
+      "sound": "Music fades out gently.",
+      "voiceover": "Join us today.",
+      "on_screen_text": "Join CrowdWisdom today.",
+      "asset_prompt": "Design a modern, clean visual of the CrowdWisdom logo with a tagline below it on a bright background, inviting viewers to connect."
+    }
+  ],
+  "cta": "Join CrowdWisdom today.",
+  "disclaimer": "Trading involves risk. Past performance is not indicative of future results."
+}
