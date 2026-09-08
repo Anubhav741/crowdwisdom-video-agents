@@ -33,3 +33,6 @@ OpenMontage/remotion-composer/public/audio/*.wav
 !output/
 !output/videos/
 !output/videos/*.mp4
+
+# Allow environment template
+!.env.example
